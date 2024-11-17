@@ -1,8 +1,10 @@
 ## Hi there my name is Roberto
 
 - 🔭 I live in Madrid.
-- 📫 You can contact me through my gmail roberesteban839@gmail.com
+- 📫 You can contact me through roberesteban839@gmail.com
 - 👯 I’m a software developer who knows Java, MySQL, Kotlin and Swift
+- 🌌 My LinkedIn is https://www.linkedin.com/in/robertoestebangarcia/
+
 
 **Technologies**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
