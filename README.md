@@ -2,7 +2,7 @@
 
 - 🔭 I live in Madrid.
 - 📫 You can contact me through my gmail roberesteban839@gmail.com
-- 👯 I’m a multiplatform app developer who knows Java, MySQL, Kotlin and Swift
+- 👯 I’m a software developer who knows Java, MySQL, Kotlin and Swift
 
 **Technologies**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
