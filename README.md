@@ -2,7 +2,7 @@
 
 - 🌍 I live in Madrid.
 - 📫 You can contact me through roberesteban839@gmail.com
-- 💻 I’m a software developer who knows Java, MySQL, Kotlin and Swift
+- 💻 I’m studying software development at Utad who knows Java, MySQL, Kotlin and Swift
 - 🌌 My LinkedIn is https://www.linkedin.com/in/robertoestebangarcia/
 
 
