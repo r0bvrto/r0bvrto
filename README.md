@@ -21,11 +21,6 @@ My goal in the job market is to find a position where I can apply and expand my 
   <img src="https://github.com/user-attachments/assets/2431559b-f9dc-4bb2-ac1a-cb6b604ce32c" alt="MySQL Icon" width="100">
   <img src="https://github.com/user-attachments/assets/364b0550-a4dd-41c5-9e61-fa2e97f55f48" alt="MySQL Icon" width="100">
 
-## Languages
-- **Spanish**
-- **English**
-
-
 
 
 
