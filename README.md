@@ -2,7 +2,7 @@
 
 - 🌍 I live in Madrid.
 - 📫 You can contact me through roberesteban839@gmail.com
-- 💻 I’m studied software development at Utad, I know Java, MySQL, Kotlin and Swift
+- 💻 I studied software development at Utad, I know Java, MySQL, Kotlin and Swift
 - 🌌 My LinkedIn is https://www.linkedin.com/in/robertoestebangarcia/
 ## About Me
 I am a person with teamwork skills, a positive attitude, and an interest in learning and improving. I stand out for my responsibility and my ability to work under pressure, as well as having empathy and a good memory. Professionally, I excel in solving complex problems and implementing practical solutions.
